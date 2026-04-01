@@ -1,0 +1,5 @@
+{
+  "name": "b.v.b",
+  "description": "An AI-powered app generator that turns your ideas into functional web applications with real-time preview and chat.",
+  "requestFramePermissions": ["microphone"]
+}
